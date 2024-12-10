@@ -31,4 +31,13 @@ merger.close()
 
 print(f"\nPDFs merged successfully into: {output_file}")
 
+'''
+Folder structure
+my_project/
+├── files/
+│   ├── certificate1.pdf
+│   ├── certificate2.pdf
+│   ├── certificate3.pdf
+└── merge_pdfs.py
+'''
 
